@@ -1,3 +1,5 @@
+View through GitHub Pages: https://morning-dove.github.io/JS-FizzBuzz/
+
 # FizzBuzz
 Uses javascript, to loop through numbers 1-100. If the number is divisible by 3, it prints "fizz". If it is divisible by 5, it prints "buzz". 
 If it is divisible by 3 and 5, print "fizzbuzz".
